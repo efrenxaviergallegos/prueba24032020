@@ -5,7 +5,7 @@ layout_style: overflow
 palette: orange
 header:
   title: MINISTERIO DE EDUCACIÓN
-  tagline: Header Tagline
+  tagline: '#QuedateEnCasa'
   profile_img: /images/me.jpg
   bg: dark
   has_nav: true
