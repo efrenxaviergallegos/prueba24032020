@@ -9,7 +9,7 @@ sections:
     title: Nosotros
     section_id: nosotros
     actions:
-      - label: Contact Me
+      - label: Contacto
         url: /contact
     component: content_block.html
     content: El Ministerio de Educación de la provincia de La Rioja
