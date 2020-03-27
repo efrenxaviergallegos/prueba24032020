@@ -4,7 +4,7 @@ permalink: '/:title/'
 layout_style: overflow
 palette: orange
 header:
-  title: Stackbit Fresh
+  title: MINISTERIO DE EDUCACIÓN
   tagline: Header Tagline
   profile_img: /images/me.jpg
   bg: dark
