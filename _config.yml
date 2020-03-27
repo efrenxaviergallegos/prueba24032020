@@ -1,12 +1,12 @@
-title: Stackbit Fresh Theme
+title: Ministerio de Educación de la provincia de La Rioja
 baseurl: /
 permalink: '/:title/'
 layout_style: overflow
-palette: blue
+palette: orange
 header:
   title: Stackbit Fresh
   tagline: Header Tagline
-  profile_img: images/avatar.png
+  profile_img: /images/me.jpg
   bg: dark
   has_nav: true
   has_social: true
@@ -22,6 +22,9 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
+collections:
+  posts:
+    permalink: '/posts/:title/'
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -36,6 +39,3 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-collections:
-  posts:
-    permalink: '/posts/:title/'
