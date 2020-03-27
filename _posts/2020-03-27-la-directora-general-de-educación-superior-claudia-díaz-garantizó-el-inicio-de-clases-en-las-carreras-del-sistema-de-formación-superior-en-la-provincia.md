@@ -7,7 +7,7 @@ thumb_img_path: /images/mep.jpg
 content_img_path: ''
 menus:
   main:
-    title: Nivel Superior
+    title: ''
 layout: post
 ---
 La Directora general de Educación Superior, Claudia Díaz, garantizó el inicio de clases en las carreras del sistema de formación Superior en la Provincia, para el cual se utilizarán todas las herramientas para el trabajo en entornos virtuales y educación a distancia.
