@@ -8,7 +8,7 @@ header:
   tagline: '#QuedateEnCasa'
   profile_img: /images/me.jpg
   bg: dark
-  has_nav: true
+  has_nav: false
   has_social: true
 footer:
   content: '&copy; All rights reserved.'
